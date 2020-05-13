@@ -19,5 +19,17 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batool-alali-401-advanced-javascript/lab-00.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/batool-alali-401-advanced-javascript/lab-00/issues"
+  },
+  "homepage": "https://github.com/batool-alali-401-advanced-javascript/lab-00#readme"
 }
